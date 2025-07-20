@@ -6,7 +6,7 @@ import tempfile
 import os
 
 
-genai.configure(api_key="gemini-api-key") #give your own api key
+genai.configure(api_key="AIzaSyDIeJeU6E1viTeDoRgVxsxJB2pkiZgd9rg") #give your own api key
 
 # Initialize Gemini model
 model = genai.GenerativeModel("models/gemini-2.5-flash")
