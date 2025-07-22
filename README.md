@@ -8,7 +8,7 @@ Our system was tested using standard evaluation metrics:
 5. Flesch Reading Ease: 47.92
 6. Grade Level: 9.74
 
-How to Run This Project
+How to Run This Project 
 
 1. Clone the repo ->
 git clone https://github.com/aniruddramesh/Clinical-Report-Summarizer.git ->
