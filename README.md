@@ -1,10 +1,10 @@
 Welcome to the Clinical Report Summarizer- a smart, patient-friendly tool that transforms complex physician reports into clear, easy-to-understand summaries. Built using a fine-tuned Flan-T5 transformer model with LoRA (Low-Rank Adaptation), our goal is to make healthcare information more accessible, especially for non-experts or patients in rural areas.
 
 Our system was tested using standard evaluation metrics:
-1. ROUGE-1: 0.9411
-2. ROUGE-2: 0.88
-3. ROUGE-L: 0.9411
-4. BLEU Score: 0.8606
+1. ROUGE-1: 0.6916
+2. ROUGE-2: 0.5045
+3. ROUGE-L: 0.6390
+4. BLEU Score: 0.4584
 5. Flesch Reading Ease: 47.92
 6. Grade Level: 9.74
 
