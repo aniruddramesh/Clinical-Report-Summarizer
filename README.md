@@ -18,7 +18,7 @@ cd Clinical-Report-Summarizer
 cd Medical-Report-Summarizer-Backend ->
 pip install -r requirements.txt ->
 python app.py ->
-python docotr_api.py
+python doctor_api.py
 
 5. Run the Frontend ->
 cd ../Medical-Report-Summarizer-Frontend ->
