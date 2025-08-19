@@ -6,7 +6,7 @@ import tempfile
 import os
 
 
-genai.configure(api_key="AIzaSyDIeJeU6E1viTeDoRgVxsxJB2pkiZgd9rg") #give your own api key
+genai.configure(api_key="Your api key") 
 
 # Initialize Gemini model
 model = genai.GenerativeModel("models/gemini-2.5-flash")
@@ -68,3 +68,4 @@ def summarize_doctor_gemini():
 
 if __name__ == "__main__":
     app.run(port=5002, debug=True)
+
